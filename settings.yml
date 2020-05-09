@@ -1,0 +1,56 @@
+---
+env:
+  uat: uat
+  qa: qa
+  staging: staging
+
+
+package:
+  englishtown: com.ef.core.engage.englishtown
+  corporate: com.ef.core.engage.corporate
+  smartenglish: com.ef.core.engage.smartenglish
+
+activity:
+  englishtown: com.ef.core.engage.ui.screens.activity.EnglishTownSplashActivity
+  corporate: com.ef.core.engage.ui.screens.activity.CorporateSplashActivity
+  smartenglish: com.ef.core.engage.ui.screens.activity.SmartEnglishSplashActivity
+
+engage:
+  uat:
+    englishtown:
+      - tauto2895/1
+      - tauto2896/1
+      - tauto2897/1
+
+    corporate:
+      - acreate1100/1
+      - acreate1101/1
+      - acreate1102/1
+
+
+    smartenglish:
+      - username:
+        username:
+        username:
+        username:
+        username:
+
+  qa:
+    englishtown:
+      - tauto4327/1
+      - newqa@qp1.org/11111111
+
+
+    corporate:
+      - username:
+        username:
+        username:
+        username:
+        username:
+
+    smartenglish:
+      - username:
+        username:
+        username:
+        username:
+        username:
